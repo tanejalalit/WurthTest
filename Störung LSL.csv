@@ -1,0 +1,1352 @@
+Maschine,Alarmident,Alarmtext,Alarmgruppe,Startzeit,Endzeit
+LSL_FT1_1,160.1,NOT-AUS ausgelöst oder Steuerspannung fehlt!,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_FT1_1,160.162,Unbekannter Alarm 162,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.164,Unbekannter Alarm 164,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.164,Unbekannter Alarm 164,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.166,Unbekannter Alarm 166,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.166,Unbekannter Alarm 166,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.167,Unbekannter Alarm 167,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.167,Unbekannter Alarm 167,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.168,Unbekannter Alarm 168,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.168,Unbekannter Alarm 168,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.169,Unbekannter Alarm 169,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.169,Unbekannter Alarm 169,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.170,Unbekannter Alarm 170,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.170,Unbekannter Alarm 170,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.178,Unbekannter Alarm 178,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.178,Unbekannter Alarm 178,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.180,Unbekannter Alarm 180,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.180,Unbekannter Alarm 180,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.182,Unbekannter Alarm 182,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.182,Unbekannter Alarm 182,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.183,Unbekannter Alarm 183,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.183,Unbekannter Alarm 183,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.184,Unbekannter Alarm 184,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.184,Unbekannter Alarm 184,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.185,Unbekannter Alarm 185,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.185,Unbekannter Alarm 185,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.186,Unbekannter Alarm 186,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.186,Unbekannter Alarm 186,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.194,Unbekannter Alarm 194,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.194,Unbekannter Alarm 194,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.196,Unbekannter Alarm 196,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.196,Unbekannter Alarm 196,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.198,Unbekannter Alarm 198,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.198,Unbekannter Alarm 198,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.199,Unbekannter Alarm 199,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.199,Unbekannter Alarm 199,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 22:37:06,03.04.2018 22:37:16
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 22:19:47,03.04.2018 22:19:56
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 19:16:11,03.04.2018 19:16:23
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 19:15:48,03.04.2018 19:15:55
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 17:42:49,03.04.2018 17:42:56
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 16:38:50,03.04.2018 16:39:04
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 16:38:18,03.04.2018 16:38:20
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 16:38:07,03.04.2018 16:38:07
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 16:37:57,03.04.2018 16:37:58
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 16:37:09,03.04.2018 16:37:10
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 14:54:45,03.04.2018 14:54:54
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 14:53:42,03.04.2018 14:53:50
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 07:50:15,03.04.2018 07:50:20
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 07:43:44,03.04.2018 07:43:48
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 03:27:55,03.04.2018 03:28:26
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 02:44:44,03.04.2018 02:45:02
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 02:35:41,03.04.2018 02:35:49
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,08.04.2018 22:02:26,09.04.2018 00:00:00
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,07.04.2018 06:12:04,07.04.2018 06:12:10
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,07.04.2018 06:11:19,07.04.2018 06:11:25
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,07.04.2018 04:05:05,07.04.2018 04:05:10
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 22:50:49,06.04.2018 22:50:57
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 22:40:10,06.04.2018 22:40:21
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 22:38:51,06.04.2018 22:38:59
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 21:58:14,06.04.2018 21:58:22
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 19:10:30,06.04.2018 19:11:02
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 19:09:28,06.04.2018 19:09:35
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 17:29:03,06.04.2018 17:31:37
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 16:24:16,06.04.2018 16:24:21
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 03:47:20,06.04.2018 03:47:32
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 03:47:08,06.04.2018 03:47:13
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 03:46:39,06.04.2018 03:46:45
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 03:44:46,06.04.2018 03:44:58
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 03:44:26,06.04.2018 03:44:40
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 02:12:03,06.04.2018 02:12:08
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 00:54:20,06.04.2018 00:54:30
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 22:43:25,05.04.2018 22:43:32
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 22:33:54,05.04.2018 22:34:02
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 19:31:28,05.04.2018 19:31:38
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 19:30:39,05.04.2018 19:30:46
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 18:34:32,05.04.2018 18:34:40
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 18:34:09,05.04.2018 18:34:16
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:57:11,05.04.2018 15:57:19
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:33:36,05.04.2018 15:33:44
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:32:12,05.04.2018 15:32:20
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:24:32,05.04.2018 15:24:39
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:23:10,05.04.2018 15:23:19
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:21:38,05.04.2018 15:21:47
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:20:01,05.04.2018 15:20:09
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 11:28:31,05.04.2018 11:28:36
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 08:16:02,05.04.2018 08:16:06
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 03:07:59,05.04.2018 03:08:06
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 03:07:32,05.04.2018 03:07:40
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 22:25:31,04.04.2018 22:25:40
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 22:19:31,04.04.2018 22:19:42
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 19:29:23,04.04.2018 19:29:24
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 19:29:12,04.04.2018 19:29:13
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 19:28:42,04.04.2018 19:28:51
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 19:28:15,04.04.2018 19:28:22
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 14:20:10,04.04.2018 14:20:26
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 14:17:56,04.04.2018 14:18:23
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 10:15:07,04.04.2018 10:15:13
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 10:12:33,04.04.2018 10:12:42
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 06:49:06,04.04.2018 06:49:24
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 06:44:51,04.04.2018 06:44:58
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 03:04:44,04.04.2018 03:04:53
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 03:01:41,04.04.2018 03:01:49
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 22:49:53,03.04.2018 22:50:01
+LSL_FT1_1,160.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 22:40:19,03.04.2018 22:40:41
+LSL_FT1_1,160.200,Unbekannter Alarm 200,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.200,Unbekannter Alarm 200,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.201,Unbekannter Alarm 201,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.201,Unbekannter Alarm 201,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:31
+LSL_FT1_1,160.202,Unbekannter Alarm 202,Alarm,02.04.2018 22:33:31,02.04.2018 22:33:42
+LSL_FT1_1,160.202,Unbekannter Alarm 202,Alarm,02.04.2018 22:30:48,02.04.2018 22:33:31
+LSL_FT1_1,160.271,Unbekannter Alarm 271,Alarm,07.04.2018 06:40:15,08.04.2018 22:02:36
+LSL_FT1_1,160.271,Unbekannter Alarm 271,Alarm,06.04.2018 18:58:52,06.04.2018 18:58:56
+LSL_FT1_1,160.271,Unbekannter Alarm 271,Alarm,05.04.2018 11:08:17,05.04.2018 11:08:21
+LSL_FT1_1,160.271,Unbekannter Alarm 271,Alarm,03.04.2018 11:45:00,03.04.2018 11:45:05
+LSL_FT1_1,160.271,Unbekannter Alarm 271,Alarm,03.04.2018 09:58:03,03.04.2018 09:58:08
+LSL_FT1_1,160.271,Unbekannter Alarm 271,Alarm,02.04.2018 00:00:00,02.04.2018 23:34:00
+LSL_FT1_1,160.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 03:43:48,06.04.2018 03:44:45
+LSL_FT1_1,160.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 03:44:49,06.04.2018 03:45:05
+LSL_FT1_1,160.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 17:42:52,03.04.2018 17:43:05
+LSL_FT1_1,160.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 03:46:38,06.04.2018 03:46:54
+LSL_FT1_1,160.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 03:47:07,06.04.2018 03:47:18
+LSL_FT1_1,160.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 03:47:18,06.04.2018 03:47:51
+LSL_FT1_1,160.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 17:30:33,06.04.2018 17:31:02
+LSL_FT1_1,160.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 17:30:33,06.04.2018 17:31:02
+LSL_FT1_1,160.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 17:41:14,03.04.2018 17:43:05
+LSL_FT1_1,160.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 03:46:38,06.04.2018 03:46:54
+LSL_FT1_1,160.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 03:44:49,06.04.2018 03:45:05
+LSL_FT1_1,160.8,LP am beweglichen Saugarm verloren!,Alarm,04.04.2018 19:29:00,04.04.2018 19:29:16
+LSL_FT1_1,160.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 03:47:19,06.04.2018 03:47:51
+LSL_FT1_1,160.8,LP am beweglichen Saugarm verloren!,Alarm,04.04.2018 00:11:16,04.04.2018 00:12:09
+LSL_FT1_1,160.88,Zeitüberwachung Plattenauslauf!,Alarm,03.04.2018 16:39:00,03.04.2018 16:39:13
+LSL_VOR,100.PV2.1032,M01 control switch is off,Alarm,02.04.2018 00:00:00,02.04.2018 22:30:22
+LSL_VOR,100.PV2.1032,M01 control switch is off,Alarm,05.04.2018 06:57:31,05.04.2018 09:14:18
+LSL_VOR,100.PV2.1032,M01 control switch is off,Alarm,07.04.2018 11:18:42,08.04.2018 22:02:31
+LSL_VOR,100.PV2.1033,M01 machine is stopped,Alarm,05.04.2018 09:15:03,05.04.2018 09:23:55
+LSL_VOR,100.PV2.1033,M01 machine is stopped,Alarm,02.04.2018 22:30:52,02.04.2018 22:51:15
+LSL_VOR,100.PV2.1033,M01 machine is stopped,Alarm,08.04.2018 22:03:02,08.04.2018 22:13:39
+LSL_VOR,100.PV2.1142,M01 machine is heating up,Alarm,08.04.2018 22:16:33,08.04.2018 22:18:55
+LSL_VOR,100.PV2.1142,M01 machine is heating up,Alarm,02.04.2018 22:30:22,02.04.2018 22:52:16
+LSL_VOR,100.PV2.1142,M01 machine is heating up,Alarm,08.04.2018 22:02:31,08.04.2018 22:14:03
+LSL_VOR,100.PV2.1314,M02 alarm temperature too low,Alarm,08.04.2018 22:03:00,08.04.2018 22:13:39
+LSL_VOR,100.PV2.1314,M02 alarm temperature too low,Alarm,02.04.2018 22:30:50,02.04.2018 22:51:15
+LSL_VOR,100.PV2.1603,M05 alarm temperature too low,Alarm,02.04.2018 22:30:50,02.04.2018 22:45:20
+LSL_VOR,100.PV2.1907,M08 temp. max.(STH) cascade 2,Alarm,07.04.2018 06:46:15,07.04.2018 06:46:15
+LSL_VOR,100.PV2.1912,M08 filter lid safety switch pump 13,Alarm,07.04.2018 06:46:15,07.04.2018 06:46:15
+LSL_VOR,100.PV2.1914,M08 filter lid switch pump 13 broken,Alarm,07.04.2018 06:46:15,07.04.2018 06:46:15
+LSL_VOR,100.PV2.1915,M08 error frequency regulator pump 13,Alarm,07.04.2018 06:46:15,07.04.2018 06:46:15
+LSL_VOR,100.PV2.1926,M08 flow rate minimum valve 23,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1927,M08 filter lid safety switch pump 14,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1929,M08 filter lid switch pump 14 broken,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1930,M08 error frequency regulator pump 14,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1935,M08 alarm conductivity cascade 3 too high,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1937,M08 alarm conductivity cascade 3 too low,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1945,M08 error lid open module 8,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1952,M08 max. filling time exceeded module 8,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1966,M08 alarm flow pump 11 too high,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1968,M08 alarm flow pump 11 too low,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1974,M08 alarm flow pump 12 too high,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1976,M08 alarm flow pump 12 too low,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1982,M08 alarm flow pump 13 too high,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1984,M08 alarm flow pump 13 too low,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1990,M08 alarm flow pump 14 too high,Alarm,07.04.2018 06:46:36,07.04.2018 06:46:36
+LSL_VOR,100.PV2.1992,M08 alarm flow pump 14 too low,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2010,M09 error lid open module 9,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2012,M09 error frequency controller blower 1,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2019,M09 error frequency controller blower 3,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2026,M09 temperature max. (STH),Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2027,M09 overtemperature blower 1,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2028,M09 overtemperature blower 2,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2029,M09 overtemperature blower 3,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2030,M09 overtemperature blower 4,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2035,M10 alarm floor tray full module 10,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2036,M10 no enable signal from following machine,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2052,M09 error frequency controller blower 2,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2056,M09 error frequency controller blower 4,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2143,M10 error passage control M10 track 1,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_VOR,100.PV2.2144,M10 error sensor monitoring length track 1,Alarm,07.04.2018 06:46:37,07.04.2018 06:46:37
+LSL_FT2_3,167.10,Fehler Schalter Türüberwachung!,Alarm,03.04.2018 14:26:06,03.04.2018 14:26:15
+LSL_FT2_3,167.10,Fehler Schalter Türüberwachung!,Alarm,02.04.2018 00:00:00,03.04.2018 14:26:06
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,03.04.2018 14:34:09,03.04.2018 14:34:12
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,03.04.2018 01:59:47,03.04.2018 01:59:50
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,03.04.2018 14:34:31,03.04.2018 14:38:59
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,03.04.2018 01:43:05,03.04.2018 01:43:11
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,05.04.2018 10:11:16,05.04.2018 10:11:17
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,05.04.2018 10:11:04,05.04.2018 10:11:04
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,04.04.2018 04:51:36,04.04.2018 04:51:36
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,04.04.2018 04:43:01,04.04.2018 04:43:04
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,04.04.2018 04:18:58,04.04.2018 04:43:01
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,04.04.2018 04:06:34,04.04.2018 04:06:36
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,04.04.2018 04:04:37,04.04.2018 04:06:34
+LSL_FT2_3,167.11,Fehler Z-Achse nicht in Startposition,Alarm,03.04.2018 14:38:59,03.04.2018 14:38:59
+LSL_FT2_3,167.12,Fehler Schwenkarm nicht in Startposition,Alarm,03.04.2018 14:34:31,09.04.2018 00:00:00
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,07.04.2018 05:16:10,07.04.2018 05:16:43
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,03.04.2018 16:25:28,03.04.2018 16:26:26
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,03.04.2018 16:28:42,03.04.2018 19:02:19
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,03.04.2018 19:13:23,03.04.2018 19:25:26
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,02.04.2018 00:00:00,03.04.2018 05:28:48
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,07.04.2018 09:22:32,09.04.2018 00:00:00
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,07.04.2018 05:18:50,07.04.2018 07:03:33
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,03.04.2018 05:28:48,03.04.2018 06:55:31
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 23:34:19,06.04.2018 23:34:26
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 20:52:38,06.04.2018 20:59:00
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 17:55:10,06.04.2018 17:56:47
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 17:51:34,06.04.2018 17:51:58
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 17:46:43,06.04.2018 17:47:07
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 06:48:59,06.04.2018 07:12:12
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 06:31:53,06.04.2018 06:46:06
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 06:23:21,06.04.2018 06:29:49
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 06:19:05,06.04.2018 06:20:05
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 05:12:40,06.04.2018 05:39:14
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,06.04.2018 00:19:04,06.04.2018 01:42:29
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,05.04.2018 20:49:13,05.04.2018 22:02:53
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,05.04.2018 19:38:08,05.04.2018 19:38:58
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,05.04.2018 19:33:51,05.04.2018 19:34:51
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,05.04.2018 17:05:31,05.04.2018 19:30:03
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,05.04.2018 17:02:15,05.04.2018 17:02:55
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,04.04.2018 20:42:58,04.04.2018 21:31:42
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,04.04.2018 15:58:28,04.04.2018 18:10:53
+LSL_FT2_3,167.140,Keine Freigabe PSF90 oder Netzwerkfehler!,Alarm,04.04.2018 05:35:40,04.04.2018 05:43:32
+LSL_FT2_3,167.19,Fehler Zeitüberwachung Platte auf Band 1,Alarm,07.04.2018 04:03:03,07.04.2018 04:03:14
+LSL_FT2_3,167.19,Fehler Zeitüberwachung Platte auf Band 1,Alarm,03.04.2018 15:01:39,03.04.2018 15:01:55
+LSL_FT2_3,167.19,Fehler Zeitüberwachung Platte auf Band 1,Alarm,03.04.2018 14:55:29,03.04.2018 14:55:39
+LSL_FT2_3,167.19,Fehler Zeitüberwachung Platte auf Band 1,Alarm,03.04.2018 13:40:25,03.04.2018 13:40:27
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:26:55,03.04.2018 14:45:16
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:26:29,03.04.2018 14:26:32
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:25:42,03.04.2018 14:25:45
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:22:43,03.04.2018 14:25:18
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:21:20,03.04.2018 14:22:18
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:07:08,03.04.2018 14:07:15
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:06:50,03.04.2018 14:06:54
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:01:02,03.04.2018 14:06:45
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:40:30,03.04.2018 13:40:31
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:37:46,03.04.2018 13:37:59
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:37:39,03.04.2018 13:37:42
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:37:31,03.04.2018 13:37:34
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:36:56,03.04.2018 13:37:25
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:36:15,03.04.2018 13:36:48
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:35:59,03.04.2018 13:36:09
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:35:44,03.04.2018 13:35:54
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 13:34:54,03.04.2018 13:35:38
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 03:00:07,03.04.2018 03:04:28
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 02:01:12,03.04.2018 02:01:44
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 01:37:11,03.04.2018 01:38:45
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 01:33:33,03.04.2018 01:36:35
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 01:32:56,03.04.2018 01:33:10
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 01:32:27,03.04.2018 01:32:33
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:59:45,03.04.2018 01:00:09
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:59:05,03.04.2018 00:59:22
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:58:36,03.04.2018 00:58:42
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:58:09,03.04.2018 00:58:12
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:56:13,03.04.2018 00:57:41
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:34:30,03.04.2018 00:35:14
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:33:58,03.04.2018 00:34:07
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 00:32:41,03.04.2018 00:33:32
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 19:32:29,04.04.2018 19:32:46
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 09:08:33,04.04.2018 09:09:55
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 08:53:55,04.04.2018 08:58:05
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 05:57:46,04.04.2018 05:58:13
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 05:57:19,04.04.2018 05:57:23
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:54:48,04.04.2018 04:59:38
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:53:53,04.04.2018 04:54:24
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:43:39,04.04.2018 04:44:07
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:38:12,04.04.2018 04:43:39
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:29:47,04.04.2018 04:33:53
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:23:04,04.04.2018 04:24:42
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:22:41,04.04.2018 04:22:41
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:22:02,04.04.2018 04:22:09
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:21:26,04.04.2018 04:21:34
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:20:52,04.04.2018 04:21:03
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:11:41,04.04.2018 04:20:52
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:05:16,04.04.2018 04:11:41
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:02:31,04.04.2018 04:03:10
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:01:50,04.04.2018 04:02:07
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:01:14,04.04.2018 04:01:26
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 04:00:45,04.04.2018 04:00:51
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:59:56,04.04.2018 04:00:22
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:58:24,04.04.2018 03:59:33
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:57:12,04.04.2018 03:58:00
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:56:45,04.04.2018 03:56:48
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:53:44,04.04.2018 03:54:03
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:53:14,04.04.2018 03:53:21
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:52:44,04.04.2018 03:52:50
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:50:44,04.04.2018 03:52:20
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 03:46:41,04.04.2018 03:50:21
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,04.04.2018 02:56:02,04.04.2018 03:46:18
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 22:23:49,03.04.2018 22:55:04
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 22:03:47,03.04.2018 22:16:26
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 21:35:08,03.04.2018 21:36:38
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 21:34:30,03.04.2018 21:34:45
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 21:33:31,03.04.2018 21:34:06
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 21:32:52,03.04.2018 21:33:08
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 21:32:24,03.04.2018 21:32:28
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 21:12:10,03.04.2018 21:32:00
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 21:11:24,03.04.2018 21:11:47
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:50:09,03.04.2018 19:50:11
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:48:44,03.04.2018 19:48:48
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:46:39,03.04.2018 19:46:47
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:41:20,03.04.2018 19:42:06
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:35:34,03.04.2018 19:35:43
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:34:43,03.04.2018 19:35:11
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:29:42,03.04.2018 19:30:59
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:26:23,03.04.2018 19:27:27
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:25:57,03.04.2018 19:25:59
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:25:30,03.04.2018 19:25:33
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:25:01,03.04.2018 19:25:06
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:24:35,03.04.2018 19:24:38
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:24:09,03.04.2018 19:24:12
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:23:42,03.04.2018 19:23:45
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:18:05,03.04.2018 19:22:21
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:11:46,03.04.2018 19:17:42
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 19:02:09,03.04.2018 19:11:21
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 16:45:50,03.04.2018 16:45:52
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 16:45:38,03.04.2018 16:45:42
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 16:41:47,03.04.2018 16:45:25
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:47:03,03.04.2018 14:47:09
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:46:01,03.04.2018 14:46:38
+LSL_FT2_3,167.26,Fehler Zeitüberwachung Platte im Auslauf Seite 1,Alarm,03.04.2018 14:45:16,03.04.2018 14:45:38
+LSL_FT2_3,167.9,Fehler NOT-AUS ausgelöst oder Steuerspannung fehlt!,Alarm,03.04.2018 14:33:33,03.04.2018 14:33:33
+LSL_FT2_3,167.9,Fehler NOT-AUS ausgelöst oder Steuerspannung fehlt!,Alarm,04.04.2018 04:50:40,04.04.2018 04:51:32
+LSL_SPRAY,110.-1176848787,Service Modus aktiv,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:06
+LSL_SPRAY,110.1222164748,Störung Abluftstrom C2,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:06
+LSL_SPRAY,110.1222361356,Störung Abluftstrom C1,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:06
+LSL_SPRAY,110.-142837654,Störung Antrieb Zentrierung,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:06
+LSL_SPRAY,110.1802077845,Türe / Haube nicht geschlossen,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:06
+LSL_SPRAY,110.-486636651,Störung Analogmodul Hardware,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:06
+LSL_BELTRON1,120.107,St?rung Gesamt-Abluft,Alarm,02.04.2018 21:58:15,06.04.2018 10:51:46
+LSL_BELTRON1,120.107,St?rung Gesamt-Abluft,Alarm,08.04.2018 22:05:58,08.04.2018 22:06:23
+LSL_BELTRON1,120.107,St?rung Gesamt-Abluft,Alarm,02.04.2018 00:00:00,02.04.2018 21:58:15
+LSL_BELTRON1,120.121,St?rung Abluft Modul 3,Alarm,08.04.2018 22:24:12,08.04.2018 22:25:32
+LSL_BELTRON1,120.121,St?rung Abluft Modul 3,Alarm,08.04.2018 22:28:10,08.04.2018 22:40:14
+LSL_BELTRON1,120.121,St?rung Abluft Modul 3,Alarm,08.04.2018 22:40:14,09.04.2018 00:00:00
+LSL_BELTRON1,120.121,St?rung Abluft Modul 3,Alarm,08.04.2018 22:26:43,08.04.2018 22:27:01
+LSL_BELTRON1,120.122,St?rung Abluft Modul 4,Alarm,08.04.2018 22:24:12,08.04.2018 22:25:32
+LSL_BELTRON1,120.122,St?rung Abluft Modul 4,Alarm,08.04.2018 22:40:14,09.04.2018 00:00:00
+LSL_BELTRON1,120.123,St?rung Abluft Modul 5,Alarm,08.04.2018 22:38:53,08.04.2018 22:39:03
+LSL_BELTRON1,120.123,St?rung Abluft Modul 5,Alarm,08.04.2018 22:28:10,08.04.2018 22:38:53
+LSL_BELTRON1,120.123,St?rung Abluft Modul 5,Alarm,08.04.2018 22:26:43,08.04.2018 22:27:01
+LSL_BELTRON1,120.123,St?rung Abluft Modul 5,Alarm,08.04.2018 22:24:12,08.04.2018 22:25:32
+LSL_BELTRON1,120.123,St?rung Abluft Modul 5,Alarm,08.04.2018 22:21:51,08.04.2018 22:23:01
+LSL_BELTRON1,120.123,St?rung Abluft Modul 5,Alarm,08.04.2018 22:40:14,09.04.2018 00:00:00
+LSL_BELTRON1,120.125,St?rung Abluft Modul 7,Alarm,08.04.2018 22:40:14,09.04.2018 00:00:00
+LSL_BELTRON1,120.125,St?rung Abluft Modul 7,Alarm,08.04.2018 22:24:12,08.04.2018 22:25:32
+LSL_BELTRON1,120.126,St?rung Abluft Modul 8,Alarm,08.04.2018 22:40:14,09.04.2018 00:00:00
+LSL_BELTRON1,120.126,St?rung Abluft Modul 8,Alarm,08.04.2018 22:26:43,08.04.2018 22:27:01
+LSL_BELTRON1,120.126,St?rung Abluft Modul 8,Alarm,08.04.2018 22:24:12,08.04.2018 22:25:32
+LSL_BELTRON1,120.81,Temperatur in Modul 1.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.82,Temperatur in Modul 1.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.83,Temperatur in Modul 2.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.84,Temperatur in Modul 2.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.85,Temperatur in Modul 3.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.86,Temperatur in Modul 3.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.87,Temperatur in Modul 4.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.88,Temperatur in Modul 4.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.89,Temperatur in Modul 5.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.90,Temperatur in Modul 5.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.91,Temperatur in Modul 6.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.92,Temperatur in Modul 6.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.93,Temperatur in Modul 7.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.94,Temperatur in Modul 7.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.95,Temperatur in Modul 8.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.96,Temperatur in Modul 8.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.97,Temperatur in Modul 9.1 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_BELTRON1,120.98,Temperatur in Modul 9.2 zu niedrig,Alarm,02.04.2018 00:00:00,06.04.2018 10:51:46
+LSL_FT3_2,171.10,"Zeitüberwachung Sensor zwischen Einlauflifte und Puffer [88B3, 88B4]",Alarm,04.04.2018 15:12:37,04.04.2018 15:12:39
+LSL_FT3_2,171.11,Zeitüberwachung LP Sensor auf Lift 1 Einlauf unten,Alarm,06.04.2018 23:24:53,06.04.2018 23:25:23
+LSL_FT3_2,171.14,"Zeitüberwachung LP auf Lift 2, 89B3, 89B4 schaltet nicht!",Alarm,06.04.2018 23:30:54,06.04.2018 23:31:24
+LSL_FT3_2,171.14,"Zeitüberwachung LP auf Lift 2, 89B3, 89B4 schaltet nicht!",Alarm,06.04.2018 23:30:29,06.04.2018 23:30:43
+LSL_FT3_2,171.14,"Zeitüberwachung LP auf Lift 2, 89B3, 89B4 schaltet nicht!",Alarm,06.04.2018 23:28:10,06.04.2018 23:30:16
+LSL_FT3_2,171.14,"Zeitüberwachung LP auf Lift 2, 89B3, 89B4 schaltet nicht!",Alarm,04.04.2018 15:12:04,04.04.2018 15:12:36
+LSL_FT3_2,171.17,Keine Steuerspannung oder Not-Halt ausgelöst,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_FT3_2,171.178,Unbekannter Alarm 178,Alarm,02.04.2018 21:46:00,02.04.2018 21:53:43
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 01:25:07,06.04.2018 01:25:22
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 01:25:06,06.04.2018 01:25:07
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 01:22:13,06.04.2018 01:22:18
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 01:21:54,06.04.2018 01:22:12
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,05.04.2018 16:34:46,05.04.2018 16:34:57
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,05.04.2018 16:34:07,05.04.2018 16:34:24
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,05.04.2018 16:32:45,05.04.2018 16:32:45
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,05.04.2018 16:32:07,05.04.2018 16:32:44
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,04.04.2018 19:11:12,04.04.2018 19:11:24
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,04.04.2018 19:10:42,04.04.2018 19:10:44
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,04.04.2018 19:03:24,04.04.2018 19:03:38
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,04.04.2018 19:02:59,04.04.2018 19:03:10
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,04.04.2018 15:12:46,04.04.2018 15:13:39
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 01:29:39,06.04.2018 01:30:17
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 01:30:45,06.04.2018 01:31:40
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 01:32:11,06.04.2018 01:32:29
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 16:21:08,06.04.2018 16:21:16
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 23:25:09,06.04.2018 23:25:20
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 23:27:21,06.04.2018 23:27:54
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 23:28:59,06.04.2018 23:30:01
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,06.04.2018 23:31:00,06.04.2018 23:31:28
+LSL_FT3_2,171.18,Türen nicht geschlossen,Alarm,05.04.2018 16:40:24,05.04.2018 16:40:37
+LSL_FT3_2,171.181,Unbekannter Alarm 181,Alarm,02.04.2018 21:46:00,02.04.2018 21:53:43
+LSL_FT3_2,171.185,Unbekannter Alarm 185,Alarm,02.04.2018 21:46:00,02.04.2018 21:53:43
+LSL_FT3_2,171.186,Unbekannter Alarm 186,Alarm,02.04.2018 21:46:00,02.04.2018 21:53:43
+LSL_FT3_2,171.187,Unbekannter Alarm 187,Alarm,02.04.2018 21:46:00,02.04.2018 21:53:43
+LSL_FT3_2,171.190,Unbekannter Alarm 190,Alarm,02.04.2018 21:46:00,02.04.2018 21:53:43
+LSL_FT3_2,171.210,Unbekannter Alarm 210,Alarm,02.04.2018 21:46:00,02.04.2018 21:52:28
+LSL_FT3_2,171.213,Unbekannter Alarm 213,Alarm,02.04.2018 21:46:00,02.04.2018 21:52:28
+LSL_FT3_2,171.217,Unbekannter Alarm 217,Alarm,02.04.2018 21:46:00,02.04.2018 21:52:28
+LSL_FT3_2,171.218,Unbekannter Alarm 218,Alarm,02.04.2018 21:46:00,02.04.2018 21:52:28
+LSL_FT3_2,171.219,Unbekannter Alarm 219,Alarm,02.04.2018 21:46:00,02.04.2018 21:52:28
+LSL_FT3_2,171.222,Unbekannter Alarm 222,Alarm,02.04.2018 21:46:00,02.04.2018 21:52:28
+LSL_FT3_2,171.242,Unbekannter Alarm 242,Alarm,02.04.2018 21:46:00,02.04.2018 21:55:12
+LSL_FT3_2,171.245,Unbekannter Alarm 245,Alarm,02.04.2018 21:46:00,02.04.2018 21:55:12
+LSL_FT3_2,171.249,Letzte Platte des Auftrages hat Puffer verlassen,Alarm,02.04.2018 21:46:00,02.04.2018 21:55:12
+LSL_FT3_2,171.250,Puffer ist beinahe voll,Alarm,02.04.2018 21:46:00,02.04.2018 21:55:12
+LSL_FT3_2,171.251,Einlaufbrücke ist offen,Alarm,02.04.2018 21:46:00,02.04.2018 21:55:12
+LSL_FT3_2,171.254,Unbekannter Alarm 254,Alarm,02.04.2018 21:46:00,02.04.2018 21:55:12
+LSL_FT3_2,171.42,Zeitüberwachung Platte  zwischen Puffer und Auslauflifte,Alarm,06.04.2018 01:20:17,06.04.2018 01:23:56
+LSL_FT3_2,171.42,Zeitüberwachung Platte  zwischen Puffer und Auslauflifte,Alarm,06.04.2018 01:31:48,06.04.2018 01:31:57
+LSL_FT3_2,171.45,"Zeitüberwachung LP kommt nicht aus Puffer Lift 3, [88B7, 88B9] schaltet nicht!",Alarm,06.04.2018 23:27:05,06.04.2018 23:28:00
+LSL_FT3_2,171.45,"Zeitüberwachung LP kommt nicht aus Puffer Lift 3, [88B7, 88B9] schaltet nicht!",Alarm,06.04.2018 01:27:57,06.04.2018 01:30:32
+LSL_FT3_2,171.45,"Zeitüberwachung LP kommt nicht aus Puffer Lift 3, [88B7, 88B9] schaltet nicht!",Alarm,06.04.2018 01:27:12,06.04.2018 01:27:24
+LSL_FT3_2,171.45,"Zeitüberwachung LP kommt nicht aus Puffer Lift 3, [88B7, 88B9] schaltet nicht!",Alarm,06.04.2018 01:26:28,06.04.2018 01:26:39
+LSL_FT3_2,171.45,"Zeitüberwachung LP kommt nicht aus Puffer Lift 3, [88B7, 88B9] schaltet nicht!",Alarm,06.04.2018 23:28:33,06.04.2018 23:30:16
+LSL_FT3_2,171.48,"Platte zwischen Puffer und Auslaufseite [88B10, 88B12]",Alarm,06.04.2018 16:20:46,06.04.2018 16:21:19
+LSL_FT3_2,171.48,"Platte zwischen Puffer und Auslaufseite [88B10, 88B12]",Alarm,06.04.2018 01:24:26,06.04.2018 01:25:30
+LSL_FT3_2,171.48,"Platte zwischen Puffer und Auslaufseite [88B10, 88B12]",Alarm,05.04.2018 16:39:39,05.04.2018 16:40:39
+LSL_FT3_2,171.48,"Platte zwischen Puffer und Auslaufseite [88B10, 88B12]",Alarm,05.04.2018 16:34:16,05.04.2018 16:34:59
+LSL_FT3_2,171.48,"Platte zwischen Puffer und Auslaufseite [88B10, 88B12]",Alarm,05.04.2018 16:31:45,05.04.2018 16:32:49
+LSL_FT3_2,171.48,"Platte zwischen Puffer und Auslaufseite [88B10, 88B12]",Alarm,04.04.2018 19:02:28,04.04.2018 19:03:41
+LSL_FT3_2,171.77,Lift 1: Einlauf unten: Festo Alarm,Alarm,02.04.2018 21:46:00,02.04.2018 21:53:43
+LSL_FT3_2,171.78,Lift 2: Einlauf oben:  Festo Alarm,Alarm,02.04.2018 21:46:00,02.04.2018 21:52:28
+LSL_FT3_2,171.79,Lift 3: Auslauf unten:  Festo Alarm,Alarm,02.04.2018 21:46:00,02.04.2018 21:55:12
+LSL_FT3_2,171.80,Lift 4: Auslauf oben:  Festo Alarm,Alarm,02.04.2018 21:46:00,02.04.2018 21:54:28
+LSL_FT3_2,171.81,"Zeitüberwachung LP erreicht Auslaufsensoren nicht Lift 3 [88B10, 88B12]",Alarm,05.04.2018 16:34:06,05.04.2018 16:34:26
+LSL_FT3_2,171.81,"Zeitüberwachung LP erreicht Auslaufsensoren nicht Lift 3 [88B10, 88B12]",Alarm,05.04.2018 16:33:20,05.04.2018 16:33:49
+LSL_BEL,140.-1037631835,40612 OutWM: Platte in Modul ,Alarm,03.04.2018 15:42:07,03.04.2018 15:42:07
+LSL_BEL,140.-1066492394,40001 InWM: Platte in Modul ,Alarm,03.04.2018 19:14:29,03.04.2018 19:14:29
+LSL_BEL,140.-1066492394,40001 InWM: Platte in Modul ,Alarm,03.04.2018 13:41:07,03.04.2018 13:41:07
+LSL_BEL,140.-1066492394,40001 InWM: Platte in Modul ,Alarm,03.04.2018 04:24:19,03.04.2018 04:24:19
+LSL_BEL,140.1067733401,0 TargetError Job: 0460700_a00_014 ,Alarm,06.04.2018 12:08:42,06.04.2018 12:08:42
+LSL_BEL,140.1067733401,0 TargetError Job: 0460700_a00_014 ,Alarm,06.04.2018 12:12:24,06.04.2018 12:12:24
+LSL_BEL,140.1067733401,0 TargetError Job: 0460700_a00_014 ,Alarm,06.04.2018 12:13:10,06.04.2018 12:13:10
+LSL_BEL,140.1067733401,0 TargetError Job: 0460700_a00_014 ,Alarm,06.04.2018 12:14:20,06.04.2018 12:14:20
+LSL_BEL,140.1067733401,0 TargetError Job: 0460700_a00_014 ,Alarm,06.04.2018 12:07:25,06.04.2018 12:07:25
+LSL_BEL,140.1067733401,0 TargetError Job: 0460700_a00_014 ,Alarm,06.04.2018 12:16:04,06.04.2018 12:16:04
+LSL_BEL,140.1098832761,40201 InCL: Platte in Modul Links ,Alarm,03.04.2018 04:24:19,03.04.2018 04:24:19
+LSL_BEL,140.1098832761,40201 InCL: Platte in Modul Links ,Alarm,03.04.2018 19:14:29,03.04.2018 19:14:29
+LSL_BEL,140.1098832761,40201 InCL: Platte in Modul Links ,Alarm,03.04.2018 13:41:07,03.04.2018 13:41:07
+LSL_BEL,140.1101912021,"0 Abstandsfehler: 0.305mm, 0455312_a00_003 ",Alarm,04.04.2018 01:14:40,04.04.2018 01:14:40
+LSL_BEL,140.-1102749015,40813 Durchl: Error Linearmotor Y ,Alarm,03.04.2018 19:14:46,03.04.2018 19:14:46
+LSL_BEL,140.-114302667,0 SD3 Z:  Error ,Alarm,04.04.2018 12:12:21,04.04.2018 12:12:21
+LSL_BEL,140.-114302667,0 SD3 Z:  Error ,Alarm,05.04.2018 15:28:19,05.04.2018 15:28:19
+LSL_BEL,140.-114302667,0 SD3 Z:  Error ,Alarm,05.04.2018 17:47:26,05.04.2018 17:47:26
+LSL_BEL,140.-114302667,0 SD3 Z:  Error ,Alarm,06.04.2018 11:44:54,06.04.2018 11:44:54
+LSL_BEL,140.-114302667,0 SD3 Z:  Error ,Alarm,06.04.2018 11:25:17,06.04.2018 11:25:17
+LSL_BEL,140.1191788261,"0 Abstandsfehler: 0.565mm, 0359384_b00_022 ",Alarm,03.04.2018 03:48:21,03.04.2018 03:48:21
+LSL_BEL,140.1202937415,40002 InWM: Error: Antieb Transportband ,Alarm,03.04.2018 15:23:58,03.04.2018 15:23:58
+LSL_BEL,140.1202937415,40002 InWM: Error: Antieb Transportband ,Alarm,06.04.2018 11:44:54,06.04.2018 11:44:54
+LSL_BEL,140.1202937415,40002 InWM: Error: Antieb Transportband ,Alarm,06.04.2018 11:25:17,06.04.2018 11:25:17
+LSL_BEL,140.1202937415,40002 InWM: Error: Antieb Transportband ,Alarm,05.04.2018 06:40:54,05.04.2018 06:40:54
+LSL_BEL,140.-1250595187,"0 Abstandsfehler: 0.634mm, 0392427_b00_355 ",Alarm,03.04.2018 09:25:05,03.04.2018 09:25:05
+LSL_BEL,140.127164058,40701 OutWM: Laufzeitfehler. Platte hat Maschine nicht verlassen ,Alarm,03.04.2018 04:15:25,03.04.2018 04:15:25
+LSL_BEL,140.127164058,40701 OutWM: Laufzeitfehler. Platte hat Maschine nicht verlassen ,Alarm,03.04.2018 19:12:51,03.04.2018 19:12:51
+LSL_BEL,140.127164058,40701 OutWM: Laufzeitfehler. Platte hat Maschine nicht verlassen ,Alarm,06.04.2018 15:33:57,06.04.2018 15:33:57
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:01:55,06.04.2018 04:01:55
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:01:38,06.04.2018 04:01:38
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 03:51:27,06.04.2018 03:51:27
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 21:57:59,05.04.2018 21:57:59
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 21:57:36,05.04.2018 21:57:36
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 17:48:05,05.04.2018 17:48:05
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 17:47:48,05.04.2018 17:47:48
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 17:47:26,05.04.2018 17:47:26
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 15:28:33,05.04.2018 15:28:33
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 15:28:19,05.04.2018 15:28:19
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 06:12:33,04.04.2018 06:12:33
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 06:12:05,04.04.2018 06:12:05
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 06:09:54,04.04.2018 06:09:54
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 23:31:29,03.04.2018 23:31:29
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 23:30:20,03.04.2018 23:30:20
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 23:23:05,03.04.2018 23:23:05
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 19:14:36,03.04.2018 19:14:36
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 19:14:15,03.04.2018 19:14:15
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 15:43:54,03.04.2018 15:43:54
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 15:43:38,03.04.2018 15:43:38
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 15:43:14,03.04.2018 15:43:14
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 15:42:43,03.04.2018 15:42:43
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 15:42:28,03.04.2018 15:42:28
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 15:41:46,03.04.2018 15:41:46
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 15:23:58,03.04.2018 15:23:58
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 13:41:04,03.04.2018 13:41:04
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 13:40:52,03.04.2018 13:40:52
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,03.04.2018 04:20:38,03.04.2018 04:20:38
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,08.04.2018 21:03:28,08.04.2018 21:03:28
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,08.04.2018 20:53:47,08.04.2018 20:53:47
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,07.04.2018 08:11:23,07.04.2018 08:11:23
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,07.04.2018 08:09:12,07.04.2018 08:09:12
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,07.04.2018 08:00:59,07.04.2018 08:00:59
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,07.04.2018 07:48:22,07.04.2018 07:48:22
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 21:19:26,06.04.2018 21:19:26
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 21:14:37,06.04.2018 21:14:37
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 11:44:55,06.04.2018 11:44:55
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 11:25:59,06.04.2018 11:25:59
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 11:25:17,06.04.2018 11:25:17
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 06:45:38,06.04.2018 06:45:38
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 06:33:37,06.04.2018 06:33:37
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:04:01,06.04.2018 04:04:01
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:02:58,06.04.2018 04:02:58
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:02:50,06.04.2018 04:02:50
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:02:46,06.04.2018 04:02:46
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:02:32,06.04.2018 04:02:32
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,06.04.2018 04:02:09,06.04.2018 04:02:09
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 14:55:43,05.04.2018 14:55:43
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 14:55:25,05.04.2018 14:55:25
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 14:54:34,05.04.2018 14:54:34
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 14:53:21,05.04.2018 14:53:21
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 06:40:54,05.04.2018 06:40:54
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,05.04.2018 06:37:53,05.04.2018 06:37:53
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 13:27:41,04.04.2018 13:27:41
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 13:26:39,04.04.2018 13:26:39
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 13:19:06,04.04.2018 13:19:06
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 13:17:26,04.04.2018 13:17:26
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 12:13:43,04.04.2018 12:13:43
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 12:12:21,04.04.2018 12:12:21
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 06:19:18,04.04.2018 06:19:18
+LSL_BEL,140.1328461025,40914 Apollon: Error Sicherheits- Modul ,Alarm,04.04.2018 06:12:45,04.04.2018 06:12:45
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,06.04.2018 11:44:43,06.04.2018 11:44:43
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,06.04.2018 11:24:46,06.04.2018 11:24:46
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,05.04.2018 17:47:01,05.04.2018 17:47:01
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,03.04.2018 13:40:27,03.04.2018 13:40:27
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,04.04.2018 12:12:02,04.04.2018 12:12:02
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,03.04.2018 15:41:33,03.04.2018 15:41:33
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,03.04.2018 15:23:46,03.04.2018 15:23:46
+LSL_BEL,140.-1332846637,40901 BM: Laufzeit: Plattenübergabe Rechtslauf ,Alarm,05.04.2018 15:28:03,05.04.2018 15:28:03
+LSL_BEL,140.-1424588296,0 TargetError Job: 0347407_b00_058 ,Alarm,06.04.2018 11:44:32,06.04.2018 11:44:32
+LSL_BEL,140.-1424588296,0 TargetError Job: 0347407_b00_058 ,Alarm,06.04.2018 11:30:26,06.04.2018 11:30:26
+LSL_BEL,140.-1424588296,0 TargetError Job: 0347407_b00_058 ,Alarm,06.04.2018 11:30:09,06.04.2018 11:30:09
+LSL_BEL,140.-1424588296,0 TargetError Job: 0347407_b00_058 ,Alarm,06.04.2018 11:24:35,06.04.2018 11:24:35
+LSL_BEL,140.-1424588296,0 TargetError Job: 0347407_b00_058 ,Alarm,06.04.2018 11:23:11,06.04.2018 11:23:11
+LSL_BEL,140.-1475474088,42002 Info: UV-LED ausgeschalten ,Alarm,05.04.2018 17:47:26,05.04.2018 17:47:26
+LSL_BEL,140.-1475474088,42002 Info: UV-LED ausgeschalten ,Alarm,05.04.2018 15:28:19,05.04.2018 15:28:19
+LSL_BEL,140.-1475474088,42002 Info: UV-LED ausgeschalten ,Alarm,04.04.2018 12:12:21,04.04.2018 12:12:21
+LSL_BEL,140.-1475474088,42002 Info: UV-LED ausgeschalten ,Alarm,03.04.2018 23:23:05,03.04.2018 23:23:05
+LSL_BEL,140.-1620285163,"0 Abstandsfehler: 0.406mm, 0385364_b00_008 ",Alarm,03.04.2018 04:28:36,03.04.2018 04:28:36
+LSL_BEL,140.1628031758,40910 BM: Linearmotoren X / Y / Z ,Alarm,03.04.2018 23:31:28,03.04.2018 23:31:28
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,07.04.2018 08:00:59,07.04.2018 08:00:59
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,07.04.2018 07:48:22,07.04.2018 07:48:22
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,02.04.2018 20:45:42,02.04.2018 20:45:42
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,02.04.2018 20:46:25,02.04.2018 20:46:25
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 04:15:25,03.04.2018 04:15:25
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 13:39:28,03.04.2018 13:39:28
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 21:19:26,06.04.2018 21:19:26
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 21:14:38,06.04.2018 21:14:38
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 15:35:22,06.04.2018 15:35:22
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 15:33:57,06.04.2018 15:33:57
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 11:44:38,06.04.2018 11:44:38
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 11:37:37,06.04.2018 11:37:37
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 11:24:41,06.04.2018 11:24:41
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 06:45:38,06.04.2018 06:45:38
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 06:33:37,06.04.2018 06:33:37
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:04:01,06.04.2018 04:04:01
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:02:58,06.04.2018 04:02:58
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:02:32,06.04.2018 04:02:32
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:02:09,06.04.2018 04:02:09
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:01:55,06.04.2018 04:01:55
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:01:38,06.04.2018 04:01:38
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:00:58,06.04.2018 04:00:58
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 04:00:58,06.04.2018 04:00:58
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,06.04.2018 03:55:51,06.04.2018 03:55:51
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 21:58:00,05.04.2018 21:58:00
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 21:57:36,05.04.2018 21:57:36
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 17:46:56,05.04.2018 17:46:56
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 15:47:44,05.04.2018 15:47:44
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 15:27:58,05.04.2018 15:27:58
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 14:54:34,05.04.2018 14:54:34
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 14:53:22,05.04.2018 14:53:22
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 06:40:55,05.04.2018 06:40:55
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,05.04.2018 06:37:53,05.04.2018 06:37:53
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,04.04.2018 13:19:06,04.04.2018 13:19:06
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,04.04.2018 13:17:26,04.04.2018 13:17:26
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,04.04.2018 12:11:57,04.04.2018 12:11:57
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,04.04.2018 06:12:05,04.04.2018 06:12:05
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,04.04.2018 06:09:55,04.04.2018 06:09:55
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 23:30:20,03.04.2018 23:30:20
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 23:28:29,03.04.2018 23:28:29
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 19:12:52,03.04.2018 19:12:52
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 15:41:28,03.04.2018 15:41:28
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 15:23:45,03.04.2018 15:23:45
+LSL_BEL,140.1771517495,41215 Vorbelichter/CodeReader nicht initialisiert ,Alarm,03.04.2018 13:40:22,03.04.2018 13:40:22
+LSL_BEL,140.1788888916,42008 Klappe links offen ,Alarm,06.04.2018 06:39:55,06.04.2018 06:39:55
+LSL_BEL,140.1788888916,42008 Klappe links offen ,Alarm,06.04.2018 11:45:34,06.04.2018 11:45:34
+LSL_BEL,140.1788888916,42008 Klappe links offen ,Alarm,05.04.2018 17:47:48,05.04.2018 17:47:48
+LSL_BEL,140.1788888916,42008 Klappe links offen ,Alarm,06.04.2018 03:56:32,06.04.2018 03:56:32
+LSL_BEL,140.1788888916,42008 Klappe links offen ,Alarm,03.04.2018 19:14:36,03.04.2018 19:14:36
+LSL_BEL,140.-1811133789,1010 Zeiüberschreitung SPS Initialisierung ,Alarm,03.04.2018 15:43:30,03.04.2018 15:43:30
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,07.04.2018 08:09:12,07.04.2018 08:09:12
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 11:44:54,06.04.2018 11:44:54
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 11:25:59,06.04.2018 11:25:59
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 11:25:17,06.04.2018 11:25:17
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 06:45:38,06.04.2018 06:45:38
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 04:04:01,06.04.2018 04:04:01
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 04:02:58,06.04.2018 04:02:58
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 04:02:32,06.04.2018 04:02:32
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 04:02:09,06.04.2018 04:02:09
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 04:01:55,06.04.2018 04:01:55
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 04:01:38,06.04.2018 04:01:38
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,06.04.2018 03:55:51,06.04.2018 03:55:51
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,05.04.2018 15:28:33,05.04.2018 15:28:33
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,05.04.2018 14:55:43,05.04.2018 14:55:43
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,05.04.2018 14:55:25,05.04.2018 14:55:25
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,05.04.2018 06:40:54,05.04.2018 06:40:54
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,04.04.2018 13:27:41,04.04.2018 13:27:41
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,04.04.2018 13:26:39,04.04.2018 13:26:39
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,04.04.2018 12:13:43,04.04.2018 12:13:43
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,04.04.2018 06:19:18,04.04.2018 06:19:18
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,04.04.2018 06:12:45,04.04.2018 06:12:45
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,03.04.2018 23:31:29,03.04.2018 23:31:29
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,03.04.2018 15:43:54,03.04.2018 15:43:54
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,03.04.2018 15:23:58,03.04.2018 15:23:58
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,03.04.2018 13:41:04,03.04.2018 13:41:04
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,08.04.2018 21:03:28,08.04.2018 21:03:28
+LSL_BEL,140.1835730962,40913 Apollon: Not- Halt NOK ,Alarm,07.04.2018 08:11:23,07.04.2018 08:11:23
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 08:38:43,03.04.2018 08:38:43
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 08:09:43,03.04.2018 08:09:43
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 06:00:58,03.04.2018 06:00:58
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 05:26:00,03.04.2018 05:26:00
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 05:20:29,03.04.2018 05:20:29
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 05:05:02,03.04.2018 05:05:02
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 04:28:36,03.04.2018 04:28:36
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 04:08:09,03.04.2018 04:08:09
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 04:07:27,03.04.2018 04:07:27
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 04:07:08,03.04.2018 04:07:08
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 04:06:57,03.04.2018 04:06:57
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 04:06:47,03.04.2018 04:06:47
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 03:48:22,03.04.2018 03:48:22
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 12:14:20,06.04.2018 12:14:20
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 12:13:10,06.04.2018 12:13:10
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 12:12:25,06.04.2018 12:12:25
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 12:08:42,06.04.2018 12:08:42
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 12:07:25,06.04.2018 12:07:25
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 11:44:32,06.04.2018 11:44:32
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 11:30:26,06.04.2018 11:30:26
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 11:30:09,06.04.2018 11:30:09
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 11:24:35,06.04.2018 11:24:35
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 11:23:11,06.04.2018 11:23:11
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:42:28,06.04.2018 05:42:28
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:42:18,06.04.2018 05:42:18
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:37:41,06.04.2018 05:37:41
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:36:59,06.04.2018 05:36:59
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:36:17,06.04.2018 05:36:17
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:35:29,06.04.2018 05:35:29
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:34:46,06.04.2018 05:34:46
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:34:05,06.04.2018 05:34:05
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:33:22,06.04.2018 05:33:22
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:32:40,06.04.2018 05:32:40
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:32:02,06.04.2018 05:32:02
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:22:10,06.04.2018 05:22:10
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:20:46,06.04.2018 05:20:46
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:13:43,06.04.2018 05:13:43
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 05:13:03,06.04.2018 05:13:03
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 03:49:34,06.04.2018 03:49:34
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 03:16:31,06.04.2018 03:16:31
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 03:16:20,06.04.2018 03:16:20
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 03:12:50,06.04.2018 03:12:50
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 03:11:40,06.04.2018 03:11:40
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 18:16:10,05.04.2018 18:16:10
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 17:59:57,05.04.2018 17:59:57
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 17:51:56,05.04.2018 17:51:56
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 17:46:50,05.04.2018 17:46:50
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 17:44:29,05.04.2018 17:44:29
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 15:46:23,05.04.2018 15:46:23
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 15:34:02,05.04.2018 15:34:02
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,05.04.2018 15:27:52,05.04.2018 15:27:52
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,04.04.2018 12:11:51,04.04.2018 12:11:51
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,04.04.2018 11:23:23,04.04.2018 11:23:23
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,04.04.2018 01:14:41,04.04.2018 01:14:41
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 23:11:30,03.04.2018 23:11:30
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 15:55:46,03.04.2018 15:55:46
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 15:54:03,03.04.2018 15:54:03
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 15:41:22,03.04.2018 15:41:22
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 15:23:29,03.04.2018 15:23:29
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 15:16:19,03.04.2018 15:16:19
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 15:03:37,03.04.2018 15:03:37
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 14:49:34,03.04.2018 14:49:34
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 14:46:32,03.04.2018 14:46:32
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 14:25:15,03.04.2018 14:25:15
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 14:24:17,03.04.2018 14:24:17
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 14:20:28,03.04.2018 14:20:28
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 14:07:33,03.04.2018 14:07:33
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 14:05:34,03.04.2018 14:05:34
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 13:55:12,03.04.2018 13:55:12
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 13:49:43,03.04.2018 13:49:43
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 13:40:16,03.04.2018 13:40:16
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 13:39:59,03.04.2018 13:39:59
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 13:19:13,03.04.2018 13:19:13
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 13:03:31,03.04.2018 13:03:31
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 12:56:59,03.04.2018 12:56:59
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 09:25:06,03.04.2018 09:25:06
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,03.04.2018 08:44:23,03.04.2018 08:44:23
+LSL_BEL,140.1854013009,41100 BM: Fehler Belichten ,Alarm,06.04.2018 12:16:04,06.04.2018 12:16:04
+LSL_BEL,140.-187638098,"0 Abstandsfehler: 0.374mm, 0475626_b00_016 ",Alarm,03.04.2018 08:09:43,03.04.2018 08:09:43
+LSL_BEL,140.-1916572776,0 TargetError Job: 0370663_c00_027 ,Alarm,03.04.2018 04:06:46,03.04.2018 04:06:46
+LSL_BEL,140.-1916572776,0 TargetError Job: 0370663_c00_027 ,Alarm,03.04.2018 04:06:57,03.04.2018 04:06:57
+LSL_BEL,140.-1916572776,0 TargetError Job: 0370663_c00_027 ,Alarm,03.04.2018 04:07:08,03.04.2018 04:07:08
+LSL_BEL,140.-1916572776,0 TargetError Job: 0370663_c00_027 ,Alarm,03.04.2018 04:07:27,03.04.2018 04:07:27
+LSL_BEL,140.-1916572776,0 TargetError Job: 0370663_c00_027 ,Alarm,03.04.2018 04:08:09,03.04.2018 04:08:09
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,03.04.2018 15:23:45,03.04.2018 15:23:45
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,03.04.2018 15:41:32,03.04.2018 15:41:32
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,04.04.2018 12:12:00,04.04.2018 12:12:00
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,05.04.2018 15:28:02,05.04.2018 15:28:02
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,05.04.2018 17:47:00,05.04.2018 17:47:00
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,06.04.2018 11:24:44,06.04.2018 11:24:44
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,03.04.2018 13:40:25,03.04.2018 13:40:25
+LSL_BEL,140.-1959753684,40406 OutCL: Laufzeit: Sensor Plattenerkennung ,Alarm,06.04.2018 11:44:41,06.04.2018 11:44:41
+LSL_BEL,140.-2026179962,40802 Apollon: Initialisierung NOK ,Alarm,03.04.2018 15:43:54,03.04.2018 15:43:54
+LSL_BEL,140.-2026179962,40802 Apollon: Initialisierung NOK ,Alarm,03.04.2018 19:14:10,03.04.2018 19:14:10
+LSL_BEL,140.-2026179962,40802 Apollon: Initialisierung NOK ,Alarm,03.04.2018 19:14:46,03.04.2018 19:14:46
+LSL_BEL,140.2037953681,"10020 ERROR,Process Strip Timeout Clients: 32 ",Alarm,06.04.2018 03:49:34,06.04.2018 03:49:34
+LSL_BEL,140.2037953681,"10020 ERROR,Process Strip Timeout Clients: 32 ",Alarm,03.04.2018 23:11:30,03.04.2018 23:11:30
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,06.04.2018 06:39:40,06.04.2018 06:39:40
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,03.04.2018 23:23:58,03.04.2018 23:23:58
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,03.04.2018 23:30:41,03.04.2018 23:30:41
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,07.04.2018 08:01:05,07.04.2018 08:01:05
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,07.04.2018 07:51:24,07.04.2018 07:51:24
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,06.04.2018 21:19:55,06.04.2018 21:19:55
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,06.04.2018 21:15:46,06.04.2018 21:15:46
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,06.04.2018 06:34:57,06.04.2018 06:34:57
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,06.04.2018 06:33:42,06.04.2018 06:33:42
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,05.04.2018 21:58:05,05.04.2018 21:58:05
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,05.04.2018 21:58:00,05.04.2018 21:58:00
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,05.04.2018 06:41:00,05.04.2018 06:41:00
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,05.04.2018 06:38:09,05.04.2018 06:38:09
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,04.04.2018 06:12:10,04.04.2018 06:12:10
+LSL_BEL,140.-2075195663,42007 Klappe unten offen ,Alarm,04.04.2018 06:09:59,04.04.2018 06:09:59
+LSL_BEL,140.2108826810,41009 InWM: Fehler Zeilensensor ,Alarm,06.04.2018 20:01:24,06.04.2018 20:01:24
+LSL_BEL,140.-2135973042,"0 Abstandsfehler: 0.309mm, 0476286_b00_007 ",Alarm,03.04.2018 15:55:46,03.04.2018 15:55:46
+LSL_BEL,140.216587731,0 TargetError Job: 0527105_b00_047 ,Alarm,04.04.2018 12:11:51,04.04.2018 12:11:51
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:01:59,06.04.2018 04:01:59
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:01:47,06.04.2018 04:01:47
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:05:14,06.04.2018 04:05:14
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:04:33,06.04.2018 04:04:33
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:04:05,06.04.2018 04:04:05
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:03:02,06.04.2018 04:03:02
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:02:36,06.04.2018 04:02:36
+LSL_BEL,140.-250430904,1009 Fehler Start SPS Initialisierung ,Alarm,06.04.2018 04:02:13,06.04.2018 04:02:13
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,08.04.2018 20:53:47,08.04.2018 20:53:47
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 04:20:38,03.04.2018 04:20:38
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,07.04.2018 07:48:22,07.04.2018 07:48:22
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 21:19:26,06.04.2018 21:19:26
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 21:14:37,06.04.2018 21:14:37
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 11:44:55,06.04.2018 11:44:55
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 11:25:17,06.04.2018 11:25:17
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 06:40:00,06.04.2018 06:40:00
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 06:39:32,06.04.2018 06:39:32
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 06:37:47,06.04.2018 06:37:47
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 06:37:19,06.04.2018 06:37:19
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 06:33:37,06.04.2018 06:33:37
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 04:02:50,06.04.2018 04:02:50
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 04:02:46,06.04.2018 04:02:46
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 03:56:47,06.04.2018 03:56:47
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,06.04.2018 03:51:26,06.04.2018 03:51:26
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 21:57:59,05.04.2018 21:57:59
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 21:57:36,05.04.2018 21:57:36
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 17:48:05,05.04.2018 17:48:05
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 17:47:26,05.04.2018 17:47:26
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 15:28:19,05.04.2018 15:28:19
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 14:54:34,05.04.2018 14:54:34
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 14:53:21,05.04.2018 14:53:21
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 06:40:55,05.04.2018 06:40:55
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,05.04.2018 06:37:53,05.04.2018 06:37:53
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,04.04.2018 13:19:06,04.04.2018 13:19:06
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,04.04.2018 13:17:26,04.04.2018 13:17:26
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,04.04.2018 12:12:21,04.04.2018 12:12:21
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,04.04.2018 06:12:33,04.04.2018 06:12:33
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,04.04.2018 06:12:05,04.04.2018 06:12:05
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,04.04.2018 06:09:54,04.04.2018 06:09:54
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 23:30:20,03.04.2018 23:30:20
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 23:23:05,03.04.2018 23:23:05
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 19:14:15,03.04.2018 19:14:15
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 15:43:14,03.04.2018 15:43:14
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 15:42:43,03.04.2018 15:42:43
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 15:41:46,03.04.2018 15:41:46
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 15:23:58,03.04.2018 15:23:58
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,03.04.2018 13:40:52,03.04.2018 13:40:52
+LSL_BEL,140.282264303,42006 Klappe mitte offen ,Alarm,07.04.2018 08:00:59,07.04.2018 08:00:59
+LSL_BEL,140.-317931651,40801 BM: Platte in Modul ,Alarm,05.04.2018 22:00:27,05.04.2018 22:00:27
+LSL_BEL,140.-317931651,40801 BM: Platte in Modul ,Alarm,03.04.2018 19:14:10,03.04.2018 19:14:10
+LSL_BEL,140.-317931651,40801 BM: Platte in Modul ,Alarm,05.04.2018 21:59:11,05.04.2018 21:59:11
+LSL_BEL,140.-424951394,0 TargetError Job: 0371203_b00_012 ,Alarm,05.04.2018 15:27:52,05.04.2018 15:27:52
+LSL_BEL,140.-424951394,0 TargetError Job: 0371203_b00_012 ,Alarm,05.04.2018 15:34:02,05.04.2018 15:34:02
+LSL_BEL,140.-424951394,0 TargetError Job: 0371203_b00_012 ,Alarm,05.04.2018 15:46:23,05.04.2018 15:46:23
+LSL_BEL,140.-482288391,1020 Ploteinheit nicht bereit ,Alarm,06.04.2018 03:51:22,06.04.2018 03:51:22
+LSL_BEL,140.494989632,0 TargetError Job: 0061170_b00_038 ,Alarm,05.04.2018 17:51:56,05.04.2018 17:51:56
+LSL_BEL,140.494989632,0 TargetError Job: 0061170_b00_038 ,Alarm,05.04.2018 18:16:10,05.04.2018 18:16:10
+LSL_BEL,140.494989632,0 TargetError Job: 0061170_b00_038 ,Alarm,05.04.2018 17:59:56,05.04.2018 17:59:56
+LSL_BEL,140.494989632,0 TargetError Job: 0061170_b00_038 ,Alarm,05.04.2018 17:44:29,05.04.2018 17:44:29
+LSL_BEL,140.494989632,0 TargetError Job: 0061170_b00_038 ,Alarm,05.04.2018 17:46:50,05.04.2018 17:46:50
+LSL_BEL,140.605173166,"0 Abstandsfehler: 0.778mm, 0475626_b00_017 ",Alarm,03.04.2018 05:05:02,03.04.2018 05:05:02
+LSL_BEL,140.-616693026,42009 Klappe rechts offen ,Alarm,03.04.2018 15:42:28,03.04.2018 15:42:28
+LSL_BEL,140.-616693026,42009 Klappe rechts offen ,Alarm,03.04.2018 15:43:38,03.04.2018 15:43:38
+LSL_BEL,140.-616693026,42009 Klappe rechts offen ,Alarm,07.04.2018 07:50:42,07.04.2018 07:50:42
+LSL_BEL,140.-616693026,42009 Klappe rechts offen ,Alarm,06.04.2018 06:39:53,06.04.2018 06:39:53
+LSL_BEL,140.-616693026,42009 Klappe rechts offen ,Alarm,06.04.2018 03:56:39,06.04.2018 03:56:39
+LSL_BEL,140.-616693026,42009 Klappe rechts offen ,Alarm,06.04.2018 11:25:32,06.04.2018 11:25:32
+LSL_BEL,140.-676127142,"0 Abstandsfehler: 0.880mm, 0475626_b00_017 ",Alarm,03.04.2018 05:25:59,03.04.2018 05:25:59
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 13:03:31,03.04.2018 13:03:31
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 13:19:13,03.04.2018 13:19:13
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 13:39:59,03.04.2018 13:39:59
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 13:40:16,03.04.2018 13:40:16
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 13:49:43,03.04.2018 13:49:43
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 13:55:12,03.04.2018 13:55:12
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 14:05:33,03.04.2018 14:05:33
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 14:07:32,03.04.2018 14:07:32
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 12:56:58,03.04.2018 12:56:58
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 14:20:28,03.04.2018 14:20:28
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 14:24:17,03.04.2018 14:24:17
+LSL_BEL,140.-679165381,0 TargetError Job: 0476286_b00_008 ,Alarm,03.04.2018 14:25:15,03.04.2018 14:25:15
+LSL_BEL,140.-679493061,0 TargetError Job: 0476286_b00_007 ,Alarm,03.04.2018 15:54:03,03.04.2018 15:54:03
+LSL_BEL,140.-679493061,0 TargetError Job: 0476286_b00_007 ,Alarm,03.04.2018 15:41:22,03.04.2018 15:41:22
+LSL_BEL,140.-679493061,0 TargetError Job: 0476286_b00_007 ,Alarm,03.04.2018 15:23:29,03.04.2018 15:23:29
+LSL_BEL,140.-679558597,0 TargetError Job: 0476286_b00_006 ,Alarm,03.04.2018 14:46:32,03.04.2018 14:46:32
+LSL_BEL,140.-679558597,0 TargetError Job: 0476286_b00_006 ,Alarm,03.04.2018 15:03:37,03.04.2018 15:03:37
+LSL_BEL,140.-679558597,0 TargetError Job: 0476286_b00_006 ,Alarm,03.04.2018 15:16:19,03.04.2018 15:16:19
+LSL_BEL,140.-679558597,0 TargetError Job: 0476286_b00_006 ,Alarm,03.04.2018 14:49:34,03.04.2018 14:49:34
+LSL_BEL,140.684080602,"0 Abstandsfehler: 0.671mm, 0475626_b00_017 ",Alarm,03.04.2018 05:20:28,03.04.2018 05:20:28
+LSL_BEL,140.694125338,1155 Transformations-Limit ScX:0.99987 ScY:0.99972 Rot:0.004 ResX:0.071 ResY:0.114 Job:0466692_b00_019,Alarm,04.04.2018 11:23:22,04.04.2018 11:23:22
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,05.04.2018 17:46:56,05.04.2018 17:46:56
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,05.04.2018 15:27:58,05.04.2018 15:27:58
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,06.04.2018 11:24:40,06.04.2018 11:24:40
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,06.04.2018 11:44:37,06.04.2018 11:44:37
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,04.04.2018 12:11:56,04.04.2018 12:11:56
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,03.04.2018 13:40:22,03.04.2018 13:40:22
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,03.04.2018 15:41:28,03.04.2018 15:41:28
+LSL_BEL,140.-699106481,40607 OutWM: Laufzeit: Sensor Plattenerkennung ,Alarm,03.04.2018 15:42:07,03.04.2018 15:42:07
+LSL_BEL,140.-699128100,41214 VBCR Platte entfernen ,Alarm,05.04.2018 17:49:09,05.04.2018 17:49:09
+LSL_BEL,140.-699128100,41214 VBCR Platte entfernen ,Alarm,06.04.2018 15:35:05,06.04.2018 15:35:05
+LSL_BEL,140.-699128100,41214 VBCR Platte entfernen ,Alarm,06.04.2018 15:35:14,06.04.2018 15:35:14
+LSL_BEL,140.-699128100,41214 VBCR Platte entfernen ,Alarm,03.04.2018 04:25:07,03.04.2018 04:25:07
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:34:46,06.04.2018 05:34:46
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:36:59,06.04.2018 05:36:59
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:32:02,06.04.2018 05:32:02
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:32:40,06.04.2018 05:32:40
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:33:22,06.04.2018 05:33:22
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:34:04,06.04.2018 05:34:04
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:36:17,06.04.2018 05:36:17
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:35:29,06.04.2018 05:35:29
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:42:28,06.04.2018 05:42:28
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:42:17,06.04.2018 05:42:17
+LSL_BEL,140.-723318379,0 TargetError Job: 0423624_b00_056 ,Alarm,06.04.2018 05:37:41,06.04.2018 05:37:41
+LSL_BEL,140.-736744403,"0 Abstandsfehler: 0.203mm, 0571696_b00_104 ",Alarm,03.04.2018 06:00:58,03.04.2018 06:00:58
+LSL_BEL,140.-740034747,40715 Apollon: Automatikbetrieb gestoppt ,Alarm,06.04.2018 03:51:22,06.04.2018 03:51:22
+LSL_BEL,140.-758879891,40705 BM: Anschläge oder Pilz-Niederhalter nicht in Endposition ,Alarm,05.04.2018 15:28:18,05.04.2018 15:28:18
+LSL_BEL,140.-758879891,40705 BM: Anschläge oder Pilz-Niederhalter nicht in Endposition ,Alarm,03.04.2018 15:23:57,03.04.2018 15:23:57
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 03:16:20,06.04.2018 03:16:20
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 03:16:31,06.04.2018 03:16:31
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 05:13:02,06.04.2018 05:13:02
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 05:13:43,06.04.2018 05:13:43
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 03:11:40,06.04.2018 03:11:40
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 05:20:46,06.04.2018 05:20:46
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 05:22:10,06.04.2018 05:22:10
+LSL_BEL,140.760476959,0 TargetError Job: 0440311_b00_010 ,Alarm,06.04.2018 03:12:50,06.04.2018 03:12:50
+LSL_BEL,140.-78211937,"0 Abstandsfehler: 0.674mm, 0475626_b00_016 ",Alarm,03.04.2018 08:38:42,03.04.2018 08:38:42
+LSL_BEL,140.870060264,1015 Fehler SPS Initialisierung ,Alarm,03.04.2018 19:14:47,03.04.2018 19:14:47
+LSL_BEL,140.870060264,1015 Fehler SPS Initialisierung ,Alarm,03.04.2018 19:14:11,03.04.2018 19:14:11
+LSL_BEL,140.877646674,40202 InCL: Error Antrieb Rollen ,Alarm,03.04.2018 15:23:58,03.04.2018 15:23:58
+LSL_BEL,140.877646674,40202 InCL: Error Antrieb Rollen ,Alarm,06.04.2018 11:25:17,06.04.2018 11:25:17
+LSL_BEL,140.877646674,40202 InCL: Error Antrieb Rollen ,Alarm,06.04.2018 11:44:54,06.04.2018 11:44:54
+LSL_BEL,140.877646674,40202 InCL: Error Antrieb Rollen ,Alarm,05.04.2018 06:40:54,05.04.2018 06:40:54
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,08.04.2018 20:53:47,08.04.2018 20:53:47
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,07.04.2018 08:00:59,07.04.2018 08:00:59
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,07.04.2018 07:48:22,07.04.2018 07:48:22
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,06.04.2018 21:19:26,06.04.2018 21:19:26
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,06.04.2018 21:14:37,06.04.2018 21:14:37
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,06.04.2018 15:33:57,06.04.2018 15:33:57
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,06.04.2018 11:44:37,06.04.2018 11:44:37
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,06.04.2018 11:24:40,06.04.2018 11:24:40
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,06.04.2018 06:33:37,06.04.2018 06:33:37
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,06.04.2018 03:51:22,06.04.2018 03:51:22
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,05.04.2018 21:57:59,05.04.2018 21:57:59
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,05.04.2018 21:57:36,05.04.2018 21:57:36
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,05.04.2018 17:46:56,05.04.2018 17:46:56
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,05.04.2018 15:27:58,05.04.2018 15:27:58
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,05.04.2018 14:54:34,05.04.2018 14:54:34
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,05.04.2018 14:53:21,05.04.2018 14:53:21
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,05.04.2018 06:37:53,05.04.2018 06:37:53
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,04.04.2018 13:19:06,04.04.2018 13:19:06
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,04.04.2018 13:17:26,04.04.2018 13:17:26
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,04.04.2018 12:11:56,04.04.2018 12:11:56
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,04.04.2018 06:12:33,04.04.2018 06:12:33
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,04.04.2018 06:12:05,04.04.2018 06:12:05
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,04.04.2018 06:09:54,04.04.2018 06:09:54
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,03.04.2018 23:31:28,03.04.2018 23:31:28
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,03.04.2018 23:30:20,03.04.2018 23:30:20
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,03.04.2018 19:12:51,03.04.2018 19:12:51
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,03.04.2018 15:41:28,03.04.2018 15:41:28
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,03.04.2018 15:23:45,03.04.2018 15:23:45
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,03.04.2018 13:40:22,03.04.2018 13:40:22
+LSL_BEL,140.-965533776,42003 Info: Fehler Aktiv: Maschine Stopp ,Alarm,03.04.2018 04:15:25,03.04.2018 04:15:25
+LSL_BEL,140.-982849528,"0 Abstandsfehler: 0.702mm, 0460700_a00_013 ",Alarm,03.04.2018 08:44:23,03.04.2018 08:44:23
+LSL_ENT,101.PV2.1028,M01 control switch is off,Alarm,02.04.2018 00:00:00,07.04.2018 07:32:23
+LSL_ENT,101.PV2.1028,M01 control switch is off,Alarm,07.04.2018 07:32:23,08.04.2018 22:05:13
+LSL_ENT,101.PV2.1029,M01 machine is stopped,Alarm,02.04.2018 00:00:00,04.04.2018 09:05:22
+LSL_ENT,101.PV2.1029,M01 machine is stopped,Alarm,04.04.2018 09:05:22,04.04.2018 10:07:38
+LSL_ENT,101.PV2.1029,M01 machine is stopped,Alarm,07.04.2018 07:53:41,08.04.2018 22:25:36
+LSL_ENT,101.PV2.1138,M01 machine is heating up,Alarm,04.04.2018 09:18:17,04.04.2018 10:08:48
+LSL_ENT,101.PV2.1138,M01 machine is heating up,Alarm,08.04.2018 22:05:13,08.04.2018 22:26:15
+LSL_ENT,101.PV2.1258,M02 filter lid safety switch pump 1,Alarm,04.04.2018 09:05:21,04.04.2018 09:05:21
+LSL_ENT,101.PV2.1261,M02 filter lid safety switch pump 2,Alarm,04.04.2018 09:05:21,04.04.2018 09:05:21
+LSL_ENT,101.PV2.1264,M02 dry-run protection module 2,Alarm,04.04.2018 09:57:58,04.04.2018 09:57:58
+LSL_ENT,101.PV2.1277,M02 alarm temperature too low,Alarm,08.04.2018 22:05:43,08.04.2018 22:20:37
+LSL_ENT,101.PV2.1277,M02 alarm temperature too low,Alarm,04.04.2018 09:05:46,04.04.2018 09:05:46
+LSL_ENT,101.PV2.1286,M02 error lid open module 2,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_ENT,101.PV2.1357,M03 filter lid safety switch pump 3,Alarm,04.04.2018 09:05:21,04.04.2018 09:05:21
+LSL_ENT,101.PV2.1360,M03 filter lid safety switch pump 4,Alarm,04.04.2018 09:05:21,04.04.2018 09:05:21
+LSL_ENT,101.PV2.1363,M03 dry-run protection module 3,Alarm,04.04.2018 09:41:14,04.04.2018 09:41:14
+LSL_ENT,101.PV2.1373,M03 alarm temperature too low,Alarm,08.04.2018 22:05:43,08.04.2018 22:25:36
+LSL_ENT,101.PV2.1373,M03 alarm temperature too low,Alarm,04.04.2018 09:05:46,04.04.2018 09:05:46
+LSL_ENT,101.PV2.1382,M03 error lid open module 3,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_ENT,101.PV2.1479,M04 filter lid safety switch pump 5,Alarm,04.04.2018 09:05:21,04.04.2018 09:05:21
+LSL_ENT,101.PV2.1482,M04 dry-run protection module 4,Alarm,04.04.2018 09:18:17,04.04.2018 09:18:17
+LSL_ENT,101.PV2.1492,M04 alarm temperature too low,Alarm,08.04.2018 22:05:43,08.04.2018 22:18:02
+LSL_ENT,101.PV2.1492,M04 alarm temperature too low,Alarm,04.04.2018 10:01:42,04.04.2018 10:07:38
+LSL_ENT,101.PV2.1492,M04 alarm temperature too low,Alarm,04.04.2018 09:05:47,04.04.2018 09:05:47
+LSL_ENT,101.PV2.1498,M04 error lid open module 4,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_ENT,101.PV2.1585,M05 filter lid safety switch pump 6,Alarm,04.04.2018 09:05:21,04.04.2018 09:05:21
+LSL_ENT,101.PV2.1602,M05 filter lid safety switch pump 7,Alarm,04.04.2018 09:05:22,04.04.2018 09:05:22
+LSL_ENT,101.PV2.1696,M06 filter lid safety switch pump 8,Alarm,04.04.2018 09:05:22,04.04.2018 09:05:22
+LSL_ENT,101.PV2.1700,M06 dry-run protection module 6,Alarm,04.04.2018 09:15:05,04.04.2018 09:15:05
+LSL_ENT,101.PV2.1700,M06 dry-run protection module 6,Alarm,08.04.2018 22:05:13,08.04.2018 22:10:19
+LSL_ENT,101.PV2.1718,M06 error lid open module 6,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_ENT,101.PV2.1813,M07 filter lid safety switch pump 9,Alarm,04.04.2018 09:05:22,04.04.2018 09:05:22
+LSL_ENT,101.PV2.1824,M07 filter lid safety switch pump 10,Alarm,04.04.2018 09:05:22,04.04.2018 09:05:22
+LSL_ENT,101.PV2.1835,M07 filter lid safety switch pump 11,Alarm,04.04.2018 09:05:22,04.04.2018 09:05:22
+LSL_ENT,101.PV2.1847,M07 filter lid safety switch pump 12,Alarm,04.04.2018 09:05:22,04.04.2018 09:05:22
+LSL_ENT,101.PV2.1968,M02 close manual valve 100,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_ENT,101.PV2.1970,M03 close manual valve 101,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_ENT,101.PV2.1974,M04 close manual valve 102,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_ENT,101.PV2.1984,M06 close manual valve 103,Alarm,07.04.2018 07:53:41,08.04.2018 22:06:55
+LSL_ENT,101.PV2.1984,M06 close manual valve 103,Alarm,02.04.2018 00:00:00,07.04.2018 07:53:41
+LSL_FT5_1,180.178,Unbekannter Alarm 178,Alarm,02.04.2018 22:10:46,02.04.2018 22:13:52
+LSL_FT5_1,180.18,Türen nicht geschlossen,Alarm,05.04.2018 21:03:06,05.04.2018 21:03:16
+LSL_FT5_1,180.18,Türen nicht geschlossen,Alarm,05.04.2018 21:03:17,05.04.2018 21:03:18
+LSL_FT5_1,180.181,Unbekannter Alarm 181,Alarm,02.04.2018 22:10:46,02.04.2018 22:13:52
+LSL_FT5_1,180.185,Unbekannter Alarm 185,Alarm,02.04.2018 22:10:46,02.04.2018 22:13:52
+LSL_FT5_1,180.186,Unbekannter Alarm 186,Alarm,02.04.2018 22:10:46,02.04.2018 22:13:52
+LSL_FT5_1,180.187,Unbekannter Alarm 187,Alarm,02.04.2018 22:10:46,02.04.2018 22:13:52
+LSL_FT5_1,180.190,Unbekannter Alarm 190,Alarm,02.04.2018 22:10:46,02.04.2018 22:13:52
+LSL_FT5_1,180.210,Unbekannter Alarm 210,Alarm,02.04.2018 22:10:46,02.04.2018 22:14:26
+LSL_FT5_1,180.213,Unbekannter Alarm 213,Alarm,02.04.2018 22:10:46,02.04.2018 22:14:26
+LSL_FT5_1,180.217,Unbekannter Alarm 217,Alarm,02.04.2018 22:10:46,02.04.2018 22:14:26
+LSL_FT5_1,180.218,Unbekannter Alarm 218,Alarm,02.04.2018 22:10:46,02.04.2018 22:14:26
+LSL_FT5_1,180.219,Unbekannter Alarm 219,Alarm,02.04.2018 22:10:46,02.04.2018 22:14:26
+LSL_FT5_1,180.222,Unbekannter Alarm 222,Alarm,02.04.2018 22:10:46,02.04.2018 22:14:26
+LSL_FT5_1,180.242,Unbekannter Alarm 242,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:03
+LSL_FT5_1,180.245,Unbekannter Alarm 245,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:03
+LSL_FT5_1,180.249,Letzte Platte des Auftrages hat Puffer verlassen,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:03
+LSL_FT5_1,180.250,Puffer ist beinahe voll,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:03
+LSL_FT5_1,180.251,Einlaufbrücke ist offen,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:03
+LSL_FT5_1,180.254,Unbekannter Alarm 254,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:03
+LSL_FT5_1,180.77,Lift 1: Einlauf unten: Festo Alarm,Alarm,02.04.2018 22:10:46,02.04.2018 22:13:52
+LSL_FT5_1,180.78,Lift 2: Einlauf oben:  Festo Alarm,Alarm,02.04.2018 22:10:46,02.04.2018 22:14:26
+LSL_FT5_1,180.79,Lift 3: Auslauf unten:  Festo Alarm,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:03
+LSL_FT5_1,180.80,Lift 4: Auslauf oben:  Festo Alarm,Alarm,02.04.2018 22:10:46,02.04.2018 22:15:46
+LSL_FT5_3,182.1,NOT-AUS ausgelöst oder Steuerspannung fehlt!,Alarm,02.04.2018 22:27:38,02.04.2018 22:27:38
+LSL_FT5_3,182.12,Zeitüberwachung LP im Wanddurchgang!,Alarm,02.04.2018 00:00:00,09.04.2018 00:00:00
+LSL_FT5_3,182.161,Unbekannter Alarm 161,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.161,Unbekannter Alarm 161,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.161,Unbekannter Alarm 161,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.161,Unbekannter Alarm 161,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.161,Unbekannter Alarm 161,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,02.04.2018 22:27:38,02.04.2018 22:27:55
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,03.04.2018 04:11:07,03.04.2018 04:11:54
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,03.04.2018 10:45:51,03.04.2018 10:46:22
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,06.04.2018 20:05:29,06.04.2018 20:06:15
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.162,Unbekannter Alarm 162,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.164,Unbekannter Alarm 164,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.166,Unbekannter Alarm 166,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.167,Unbekannter Alarm 167,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.168,Unbekannter Alarm 168,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.169,Unbekannter Alarm 169,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.170,Unbekannter Alarm 170,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.177,Unbekannter Alarm 177,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.178,Unbekannter Alarm 178,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.18,Unbekannter Alarm 18,Alarm,06.04.2018 19:59:55,06.04.2018 19:59:56
+LSL_FT5_3,182.18,Unbekannter Alarm 18,Alarm,06.04.2018 09:57:11,06.04.2018 09:57:12
+LSL_FT5_3,182.18,Unbekannter Alarm 18,Alarm,03.04.2018 04:06:57,03.04.2018 04:06:59
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,06.04.2018 19:59:55,06.04.2018 20:00:29
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,06.04.2018 09:57:11,06.04.2018 09:58:58
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 04:06:57,03.04.2018 04:08:38
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.180,Unbekannter Alarm 180,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,06.04.2018 09:57:11,06.04.2018 09:58:58
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,06.04.2018 19:59:55,06.04.2018 20:00:29
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 04:06:57,03.04.2018 04:08:38
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.182,Unbekannter Alarm 182,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,06.04.2018 19:59:55,06.04.2018 20:00:29
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,06.04.2018 09:57:11,06.04.2018 09:58:58
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 04:06:57,03.04.2018 04:08:38
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.183,Unbekannter Alarm 183,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 04:06:57,03.04.2018 04:08:38
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,06.04.2018 19:59:55,06.04.2018 20:00:29
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,06.04.2018 09:57:11,06.04.2018 09:58:58
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.184,Unbekannter Alarm 184,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,06.04.2018 19:59:55,06.04.2018 20:00:29
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,06.04.2018 09:57:11,06.04.2018 09:58:58
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 04:06:57,03.04.2018 04:08:38
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.185,Unbekannter Alarm 185,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,07.04.2018 02:51:51,07.04.2018 02:52:42
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,06.04.2018 20:26:36,06.04.2018 20:27:18
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 00:54:47,03.04.2018 00:54:56
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 04:06:57,03.04.2018 04:08:38
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 04:19:48,03.04.2018 04:20:25
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 04:48:44,03.04.2018 04:51:19
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 05:38:52,03.04.2018 05:39:27
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 07:14:49,03.04.2018 07:14:58
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,03.04.2018 20:37:47,03.04.2018 20:38:55
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,05.04.2018 12:49:53,05.04.2018 12:51:14
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,06.04.2018 09:57:11,06.04.2018 09:58:58
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,06.04.2018 19:59:55,06.04.2018 20:00:29
+LSL_FT5_3,182.186,Unbekannter Alarm 186,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.194,Unbekannter Alarm 194,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.194,Unbekannter Alarm 194,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.194,Unbekannter Alarm 194,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.194,Unbekannter Alarm 194,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.196,Unbekannter Alarm 196,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.196,Unbekannter Alarm 196,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.196,Unbekannter Alarm 196,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.196,Unbekannter Alarm 196,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.198,Unbekannter Alarm 198,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.198,Unbekannter Alarm 198,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.198,Unbekannter Alarm 198,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.198,Unbekannter Alarm 198,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.199,Unbekannter Alarm 199,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.199,Unbekannter Alarm 199,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.199,Unbekannter Alarm 199,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.199,Unbekannter Alarm 199,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,07.04.2018 02:51:59,07.04.2018 02:52:42
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 20:26:59,06.04.2018 20:27:18
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 00:55:34,03.04.2018 00:55:42
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 04:08:24,03.04.2018 04:11:07
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 04:20:10,03.04.2018 04:20:25
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 04:48:46,03.04.2018 04:51:19
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 04:52:15,03.04.2018 04:52:40
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 05:39:01,03.04.2018 05:39:27
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 07:15:09,03.04.2018 07:15:28
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 07:16:49,03.04.2018 07:17:18
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 10:42:58,03.04.2018 10:43:33
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 10:45:51,03.04.2018 10:45:51
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 20:32:01,03.04.2018 20:32:14
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 20:00:40,06.04.2018 20:01:07
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 20:00:13,06.04.2018 20:00:29
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 09:59:21,06.04.2018 10:00:23
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 09:57:45,06.04.2018 09:58:58
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 20:03:59,05.04.2018 20:04:15
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 20:01:14,05.04.2018 20:01:26
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 19:56:16,05.04.2018 19:56:31
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 12:50:49,05.04.2018 12:51:14
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 09:59:49,04.04.2018 10:00:18
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 09:59:32,04.04.2018 09:59:39
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 09:59:06,04.04.2018 09:59:27
+LSL_FT5_3,182.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 20:38:39,03.04.2018 20:38:55
+LSL_FT5_3,182.200,Unbekannter Alarm 200,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.200,Unbekannter Alarm 200,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.200,Unbekannter Alarm 200,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.200,Unbekannter Alarm 200,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.201,Unbekannter Alarm 201,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.201,Unbekannter Alarm 201,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.201,Unbekannter Alarm 201,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.201,Unbekannter Alarm 201,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.202,Unbekannter Alarm 202,Alarm,03.04.2018 10:46:22,03.04.2018 10:46:22
+LSL_FT5_3,182.202,Unbekannter Alarm 202,Alarm,03.04.2018 04:11:54,03.04.2018 04:11:54
+LSL_FT5_3,182.202,Unbekannter Alarm 202,Alarm,02.04.2018 22:27:36,02.04.2018 22:27:55
+LSL_FT5_3,182.202,Unbekannter Alarm 202,Alarm,06.04.2018 20:06:15,06.04.2018 20:06:15
+LSL_FT5_3,182.56,Timeout Wagenanhebung Seite 3,Alarm,04.04.2018 09:59:37,04.04.2018 09:59:39
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 20:01:07,05.04.2018 20:01:32
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 19:56:19,05.04.2018 19:56:39
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 12:50:52,05.04.2018 12:52:31
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 20:38:43,03.04.2018 20:39:00
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 07:16:39,03.04.2018 07:17:18
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 05:39:06,03.04.2018 05:39:36
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 04:52:31,03.04.2018 04:52:46
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 04:50:50,03.04.2018 04:51:32
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 04:20:15,03.04.2018 04:20:31
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 04:08:27,03.04.2018 04:20:15
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,07.04.2018 02:52:08,07.04.2018 02:52:58
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 20:27:07,06.04.2018 20:27:19
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 20:00:16,06.04.2018 20:00:29
+LSL_FT5_3,182.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 20:03:51,05.04.2018 20:04:20
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,07.04.2018 02:52:08,07.04.2018 02:52:58
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 04:08:27,03.04.2018 04:20:15
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 20:27:07,06.04.2018 20:27:19
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 20:00:17,06.04.2018 20:00:29
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 20:03:51,05.04.2018 20:04:20
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 20:01:07,05.04.2018 20:01:32
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 19:56:20,05.04.2018 19:56:39
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 12:50:53,05.04.2018 12:52:31
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 20:38:43,03.04.2018 20:39:00
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 07:16:39,03.04.2018 07:17:18
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 05:39:06,03.04.2018 05:39:36
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 04:52:32,03.04.2018 04:52:46
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 04:50:50,03.04.2018 04:51:32
+LSL_FT5_3,182.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 04:20:15,03.04.2018 04:20:31
+LSL_FT5_3,182.90,Zeitüberwachung Platteneinlauf!,Alarm,03.04.2018 07:15:05,03.04.2018 07:15:28
+LSL_BELTRON2,121.1,Grenzwertalarm UV1,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:32
+LSL_BELTRON2,121.2,Grenzwertalarm UV2,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:32
+LSL_BELTRON2,121.41,Stau (?berwachungswalze-3),Alarm,02.04.2018 00:00:00,06.04.2018 10:52:32
+LSL_BELTRON2,121.8,Frequenzumr.K?hlung Trocknungsgut,Alarm,02.04.2018 00:00:00,06.04.2018 10:52:32
+LSL_FT6_1,185.161,Unbekannter Alarm 161,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.162,Unbekannter Alarm 162,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.164,Unbekannter Alarm 164,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.166,Unbekannter Alarm 166,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.167,Unbekannter Alarm 167,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.168,Unbekannter Alarm 168,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.169,Unbekannter Alarm 169,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.170,Unbekannter Alarm 170,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.177,Unbekannter Alarm 177,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.177,Unbekannter Alarm 177,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.177,Unbekannter Alarm 177,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.177,Unbekannter Alarm 177,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.178,Unbekannter Alarm 178,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.178,Unbekannter Alarm 178,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.178,Unbekannter Alarm 178,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.178,Unbekannter Alarm 178,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.180,Unbekannter Alarm 180,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.180,Unbekannter Alarm 180,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.180,Unbekannter Alarm 180,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.180,Unbekannter Alarm 180,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.182,Unbekannter Alarm 182,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.182,Unbekannter Alarm 182,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.182,Unbekannter Alarm 182,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.182,Unbekannter Alarm 182,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.183,Unbekannter Alarm 183,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.183,Unbekannter Alarm 183,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.183,Unbekannter Alarm 183,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.183,Unbekannter Alarm 183,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.184,Unbekannter Alarm 184,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.184,Unbekannter Alarm 184,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.184,Unbekannter Alarm 184,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.184,Unbekannter Alarm 184,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.185,Unbekannter Alarm 185,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.185,Unbekannter Alarm 185,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.185,Unbekannter Alarm 185,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.185,Unbekannter Alarm 185,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.186,Unbekannter Alarm 186,Alarm,06.04.2018 21:40:00,06.04.2018 21:40:04
+LSL_FT6_1,185.186,Unbekannter Alarm 186,Alarm,06.04.2018 21:40:34,06.04.2018 21:43:33
+LSL_FT6_1,185.186,Unbekannter Alarm 186,Alarm,06.04.2018 23:57:47,06.04.2018 23:59:16
+LSL_FT6_1,185.186,Unbekannter Alarm 186,Alarm,05.04.2018 20:47:10,05.04.2018 20:48:13
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 23:58:09,06.04.2018 23:59:16
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 04:06:46,03.04.2018 04:07:02
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 21:45:23,06.04.2018 21:45:53
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 21:43:45,06.04.2018 21:44:10
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 21:38:57,06.04.2018 21:39:11
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 19:18:52,06.04.2018 19:19:02
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 18:32:51,06.04.2018 18:33:27
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 03:22:06,06.04.2018 03:22:17
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 22:14:41,05.04.2018 22:15:24
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 19:24:11,05.04.2018 19:24:39
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 15:46:34,05.04.2018 15:47:02
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 07:06:16,05.04.2018 07:06:25
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,05.04.2018 00:16:53,05.04.2018 00:17:13
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 23:47:23,04.04.2018 23:47:39
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 23:45:34,04.04.2018 23:46:07
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 16:13:34,04.04.2018 16:13:45
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 15:57:08,04.04.2018 15:57:17
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 05:05:43,04.04.2018 05:06:50
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 05:04:43,04.04.2018 05:05:01
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,04.04.2018 04:46:19,04.04.2018 04:47:06
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 22:50:16,03.04.2018 22:50:30
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 22:49:28,03.04.2018 22:49:49
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 21:31:08,03.04.2018 21:31:28
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 19:28:28,03.04.2018 19:28:40
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 19:18:47,03.04.2018 19:18:59
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,03.04.2018 18:50:42,03.04.2018 18:50:59
+LSL_FT6_1,185.2,Sicherheitstüren nicht verriegelt!,Alarm,06.04.2018 21:47:47,06.04.2018 21:48:07
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 22:50:43,03.04.2018 22:50:48
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 22:49:33,03.04.2018 22:50:43
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 21:24:42,03.04.2018 21:31:33
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 19:28:13,03.04.2018 19:28:41
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 19:16:29,03.04.2018 19:19:01
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,03.04.2018 18:38:38,03.04.2018 18:51:01
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 23:58:19,06.04.2018 23:59:18
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 21:39:14,06.04.2018 21:39:23
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 21:37:03,06.04.2018 21:39:14
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 19:18:27,06.04.2018 19:19:06
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 18:32:34,06.04.2018 18:33:27
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,06.04.2018 03:21:43,06.04.2018 03:22:48
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 22:14:02,05.04.2018 22:15:27
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 19:19:14,05.04.2018 19:24:46
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 15:47:03,05.04.2018 15:47:08
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 15:42:31,05.04.2018 15:47:03
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 07:06:02,05.04.2018 07:06:30
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,05.04.2018 00:14:21,05.04.2018 00:17:16
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,04.04.2018 23:44:59,04.04.2018 23:46:11
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,04.04.2018 16:11:25,04.04.2018 16:13:48
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,04.04.2018 15:56:49,04.04.2018 15:57:19
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,04.04.2018 05:04:47,04.04.2018 05:05:03
+LSL_FT6_1,185.7,LP am festen Saugarm verloren!,Alarm,04.04.2018 04:34:08,04.04.2018 04:47:06
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 23:58:19,06.04.2018 23:59:18
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 18:38:39,03.04.2018 18:51:01
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 21:37:03,06.04.2018 21:39:14
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 19:18:28,06.04.2018 19:19:06
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 18:32:35,06.04.2018 18:33:27
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 21:39:14,06.04.2018 21:39:23
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 19:18:49,03.04.2018 19:19:01
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 19:28:13,03.04.2018 19:28:41
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,06.04.2018 03:21:44,06.04.2018 03:22:48
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 22:14:02,05.04.2018 22:15:27
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 19:19:14,05.04.2018 19:24:46
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 15:47:03,05.04.2018 15:47:08
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 15:42:31,05.04.2018 15:47:03
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 07:06:02,05.04.2018 07:06:30
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,05.04.2018 00:14:21,05.04.2018 00:17:16
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,04.04.2018 23:44:59,04.04.2018 23:46:11
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,04.04.2018 16:11:26,04.04.2018 16:13:48
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,04.04.2018 15:57:11,04.04.2018 15:57:19
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,04.04.2018 05:01:52,04.04.2018 05:05:03
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,04.04.2018 04:34:09,04.04.2018 04:47:06
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 22:50:43,03.04.2018 22:50:48
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 22:48:19,03.04.2018 22:50:43
+LSL_FT6_1,185.8,LP am beweglichen Saugarm verloren!,Alarm,03.04.2018 21:31:09,03.04.2018 21:31:33
+LSL_FT6_1,185.90,Zeitüberwachung Platteneinlauf!,Alarm,06.04.2018 23:58:26,06.04.2018 23:59:16
+LSL_FT6_1,185.91,Zeitüberwachung Platte auf Einlaufsensor!,Alarm,06.04.2018 21:46:42,06.04.2018 21:47:02
+LSL_FT6_1,185.91,Zeitüberwachung Platte auf Einlaufsensor!,Alarm,06.04.2018 21:47:25,06.04.2018 21:48:07
